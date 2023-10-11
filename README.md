@@ -50,20 +50,20 @@ I am a passionate and dedicated Full Stack Developer with over 5 years of experi
 ## 🚀 Skills
 
 - JavaScript frameworks:
-  - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  - ![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"> React
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="20" height="20"> Angular
 - Tooling: npm packages, Swagger
 - Databases:
-  - ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
-  - ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_logo.svg)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="20" height="20"> MongoDB
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_logo.svg" width="20" height="20"> SQL
 - CSS frameworks:
-  - ![Material UI](https://upload.wikimedia.org/wikipedia/commons/d/d4/Material-UI-logo.svg)
-  - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Material-UI-logo.svg" width="20" height="20"> Material UI
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20" height="20"> Bootstrap
 - Data Visualization:
-  - ![D3](https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_D3.svg)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_D3.svg" width="20" height="20"> D3
 - Backend architecture:
-  - ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-  - ![Nest](https://upload.wikimedia.org/wikipedia/commons/4/43/Nest_Logo.png)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="20" height="20"> Express
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Nest_Logo.png" width="20" height="20"> Nest
 - TypeScript:
   - Generics 🧬
   - Unions 🧑‍🤝‍🧑
