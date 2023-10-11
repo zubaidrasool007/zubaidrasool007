@@ -49,22 +49,22 @@ I am a passionate and dedicated Full Stack Developer with over 5 years of experi
 
 ## 🚀 Skills
 
-- JavaScript frameworks: 
-  - React ⚛️
-  - Angular 🅰️
+- JavaScript frameworks:
+  - ![React](https://your-repo-url/react-logo.png)
+  - ![Angular](https://your-repo-url/angular-logo.png)
 - Tooling: npm packages, Swagger
-- Databases: 
-  - MongoDB 🍃
-  - SQL 🛢️
-- CSS frameworks: 
-  - Material UI 💅
-  - Bootstrap 🥾
-- Data Visualization: 
-  - D3 📊
-- Backend architecture: 
-  - Express 🌐
-  - Nest 🐤
-- TypeScript: 
+- Databases:
+  - ![MongoDB](https://your-repo-url/mongodb-logo.png)
+  - ![SQL](https://your-repo-url/sql-logo.png)
+- CSS frameworks:
+  - ![Material UI](https://your-repo-url/material-ui-logo.png)
+  - ![Bootstrap](https://your-repo-url/bootstrap-logo.png)
+- Data Visualization:
+  - ![D3](https://your-repo-url/d3-logo.png)
+- Backend architecture:
+  - ![Express](https://your-repo-url/express-logo.png)
+  - ![Nest](https://your-repo-url/nest-logo.png)
+- TypeScript:
   - Generics 🧬
   - Unions 🧑‍🤝‍🧑
   - Utility Types 🧰
