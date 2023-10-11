@@ -55,15 +55,15 @@ I am a passionate and dedicated Full Stack Developer with over 5 years of experi
 - Tooling: npm packages, Swagger
 - Databases:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="20" height="20"> MongoDB
-  - <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F28%2Fmicrosoft-azure-color%2F61%2Fsql-database-generic&psig=AOvVaw3XaC87TfXTxBRqHT2_Hnwp&ust=1697120879775000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCR-oqa7oEDFQAAAAAdAAAAABAE" width="20" height="20"> SQL
+  - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20" height="20"> SQL
 - CSS frameworks:
-  - <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmui.com%2F&psig=AOvVaw1nK28peV21ywku2MAcK6UZ&ust=1697120814938000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDFl-yZ7oEDFQAAAAAdAAAAABAE" width="20" height="20"> Material UI
+  - <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="20" height="20"> Material UI
   - <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20" height="20"> Bootstrap
 - Data Visualization:
   - 📊 D3
 - Backend architecture:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="20" height="20"> Express
-  - <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.nestjs.com%2F&psig=AOvVaw0CIBU4tic-wJs8YxkEKDNs&ust=1697120762503000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjCjdOZ7oEDFQAAAAAdAAAAABAE" width="20" height="20"> Nest
+  - <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" width="20" height="20"> Nest
 - TypeScript:
   - Generics 🧬
   - Unions 🧑‍🤝‍🧑
