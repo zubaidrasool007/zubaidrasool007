@@ -6,7 +6,6 @@
 
 📍 Multan, Pakistan
 📧 Email: web.expert1221@gmail.com
-📞 Phone: +92 302 7099967
 🌐 [LinkedIn](https://linkedin.com/in/zubaid-rasool-3040b6135)
 💻 [GitHub](https://github.com/zubaidrasool007)
 
