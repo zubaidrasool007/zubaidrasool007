@@ -1,6 +1,6 @@
 # Muhammad Zubaid Rasool
 
-[![GitHub followers](https://img.shields.io/github/followers/zubaidrasool007?label=Follow&style=social)](https://github.com/zubaidrasool007) [![Twitter Follow](https://img.shields.io/twitter/follow/zubaidrasool?label=Follow&style=social)](https://twitter.com/zubaidrasool)
+[![GitHub followers](https://img.shields.io/github/followers/zubaidrasool007?label=Follow&style=social)](https://github.com/zubaidrasool007) [![Twitter Follow](https://img.shields.io/twitter/follow/Zubaid_Rasool9?label=Follow&style=social)](https://twitter.com/Zubaid_Rasool9)
 
 ## 👨‍💻 Full Stack Developer
 
