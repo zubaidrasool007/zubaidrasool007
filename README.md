@@ -50,20 +50,20 @@ I am a passionate and dedicated Full Stack Developer with over 5 years of experi
 ## 🚀 Skills
 
 - JavaScript frameworks:
-  - ![React](https://your-repo-url/react-logo.png)
-  - ![Angular](https://your-repo-url/angular-logo.png)
+  - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+  - ![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
 - Tooling: npm packages, Swagger
 - Databases:
-  - ![MongoDB](https://your-repo-url/mongodb-logo.png)
-  - ![SQL](https://your-repo-url/sql-logo.png)
+  - ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
+  - ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_logo.svg)
 - CSS frameworks:
-  - ![Material UI](https://your-repo-url/material-ui-logo.png)
-  - ![Bootstrap](https://your-repo-url/bootstrap-logo.png)
+  - ![Material UI](https://upload.wikimedia.org/wikipedia/commons/d/d4/Material-UI-logo.svg)
+  - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
 - Data Visualization:
-  - ![D3](https://your-repo-url/d3-logo.png)
+  - ![D3](https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_D3.svg)
 - Backend architecture:
-  - ![Express](https://your-repo-url/express-logo.png)
-  - ![Nest](https://your-repo-url/nest-logo.png)
+  - ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+  - ![Nest](https://upload.wikimedia.org/wikipedia/commons/4/43/Nest_Logo.png)
 - TypeScript:
   - Generics 🧬
   - Unions 🧑‍🤝‍🧑
@@ -84,3 +84,4 @@ I am a passionate and dedicated Full Stack Developer with over 5 years of experi
 ## 🌍 Online Activities
 
 I stay updated with modern technologies through Twitter 🐦. Insights from community leaders on Twitter help me understand the philosophy and architecture behind projects. I'm actively involved in dev.to as an avid reader. 📖
+
