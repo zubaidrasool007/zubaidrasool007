@@ -13,7 +13,7 @@
 
 ## 📋 Profile
 
-I am a passionate and dedicated Full Stack Developer with over 5 years of experience. I specialize in converting business strategies into functional JavaScript solutions. My journey has taken me through diverse experiences with both service-based and product-based companies.
+I am a passionate and dedicated Full Stack Developer with over 7 years of experience. I specialize in converting business strategies into functional JavaScript solutions. My journey has taken me through diverse experiences with both service-based and product-based companies.
 
 ---
 
